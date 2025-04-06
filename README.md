@@ -26,3 +26,9 @@ A command-line calculator application that performs basic arithmetic operations:
 3. Compile the program:
     ```bash
    g++ main.cpp calculator.cpp -o calculator
+
+## License
+
+This project is licensed under the terms of the **GNU General Public License v3.0**.
+
+See the [LICENSE](LICENSE) file for more details.
